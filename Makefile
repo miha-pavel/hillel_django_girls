@@ -6,3 +6,6 @@ test:
 
 pep8:
 	flake8
+
+sh_p:
+	./manage.py shell_plus
