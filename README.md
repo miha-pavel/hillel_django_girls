@@ -28,3 +28,4 @@ Or use makefile guide
 * ```make run``` - will run Django developer server at 8000 port
 * ```make test``` - will test the project with --keepdb option
 * ```make pep8``` - will check the code with pylint.
+* ```make sh_p``` - will open shell_plus IDEA in the terminal.
