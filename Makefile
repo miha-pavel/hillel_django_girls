@@ -9,3 +9,6 @@ pep8:
 
 sh_p:
 	./manage.py shell_plus
+
+migrate:
+	python manage.py migrate

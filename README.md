@@ -29,3 +29,4 @@ Or use makefile guide
 * ```make test``` - will test the project with --keepdb option
 * ```make pep8``` - will check the code with pylint.
 * ```make sh_p``` - will open shell_plus IDEA in the terminal.
+* ```make migrate``` - will make "python manage.py migrate".
