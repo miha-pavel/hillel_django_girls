@@ -5,7 +5,7 @@ Django==2.0
 django-extensions==2.2.5
 entrypoints==0.3
 flake8==3.7.9
-ipython==7.10.2
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.15.2
 mccabe==0.6.1
